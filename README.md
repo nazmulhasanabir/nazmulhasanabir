@@ -1,5 +1,5 @@
 <h1 align="left"></h1>
-![github gif](https://github.com/user-attachments/assets/be363c3d-6581-493d-a804-69ea718db642)
+https://github.com/user-attachments/assets/be363c3d-6581-493d-a804-69ea718db642
 
 ###
 
