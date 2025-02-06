@@ -4,9 +4,17 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <br clear="both">
 
 <h1 align="center">Hey there! Long time no see!<br>I am  "Abir"</h1>
+
+###
+
+<h3 align="center">Passionate about Software Engineering |  Pursuing CSE |  Frontend Development</h3>
 
 ###
 
@@ -16,6 +24,23 @@
 
 <p align="left">✨ Creating bugs since : 2024<br>📚 Currently learning: Frontend and Backend Engineering<br>🎯 Goals: Master full-stack development and become a skilled software engineer<br>🎲 Fun fact: I drink coffee like it’s part of my debugging process.</p>
 
+###
+
+<h2 align="left">Current Activities</h2>
+
+###
+
+<p align="left">- I am exploring Next.js<br>- I’m working on a Next.js-Doctor website.<br>- Preparing to learn Full-stack development.<br>- I feel comfortable working in the backend.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmulhasanabir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulhasanabir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+<img src="[https://nirzak-streak-stats.vercel.app?user=nazmulhasanabir&theme=dark](https://nirzak-streak-stats.vercel.app/?user=nazmulhasanabir&theme=dark)" height="200" alt="stats graph"  />
+</div>
 ###
 
 <h2 align="left">Frontend Skills:</h2>
@@ -70,6 +95,3 @@
 
 ###
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=nazmulhasanabir&theme=dark" height="200" alt="stats graph"  />
-</div>
