@@ -71,5 +71,5 @@
 ###
 
 <div alighn="center">
-  <img src="https://streak-stats.demolab.com/?user=nazmulhasanabir&theme=default)](https://git.io/streak-stats" />
+  <img src="https://streak-stats.demolab.com/?user=nazmulhasanabir&theme=default" />
 </div>
