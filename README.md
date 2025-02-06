@@ -71,5 +71,5 @@
 ###
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=nazmulhasanabir&theme=dark" height="200" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com/?user=nazmulhasanabir&theme=dark" height="200" alt="stats graph"  />
 </div>
