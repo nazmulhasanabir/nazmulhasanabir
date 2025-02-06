@@ -70,6 +70,6 @@
 
 ###
 
-<div alighn="center">
-  <img src="https://streak-stats.demolab.com/?user=nazmulhasanabir&theme=default" />
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app?user=nazmulhasanabir&theme=dark" height="200" alt="stats graph"  />
 </div>
